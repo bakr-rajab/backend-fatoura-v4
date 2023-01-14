@@ -1,0 +1,13 @@
+{
+    "application_data":{
+        "APPLICATION_IP":"http://23.97.144.112",
+        "APPLICATION_PORT":"5400",
+        "PREDATAOUTPUT" : "/home/accountantnlu/the_accountant/data_output/",
+        "OUTPUTFOLDER":"home+accountantnlu+the_accountant+data_output+"
+    },
+    "database_data":{
+        "DATABASE_IP": "155.133.22.3",
+        "DATABASE_PORT": 27017,
+        "DATABASE_NAME": "accountant_db"
+    }
+}
